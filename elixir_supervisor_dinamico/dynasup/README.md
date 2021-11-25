@@ -1,21 +1,12 @@
 # Dynasup
 
-**TODO: Add description**
+**Como escalar sua aplicação elixir com supervisores dinâmicos**
 
-## Installation
+Mais um passo em no caminho de uma aplicação com disponibilidade e tolerância a falhas. Aqui mostramos como a plataforma do elixir permite que você crie e gerencie dinamicamente uma quantidade absurda de processes para dar cabo da carga de trabalho.
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `dynasup` to your list of dependencies in `mix.exs`:
+A estrutura da aplicação que criamos é a seguinte.
 
-```elixir
-def deps do
-  [
-    {:dynasup, "~> 0.1.0"}
-  ]
-end
-```
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/foubd8m77dh0fc7m5j68.png)
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/dynasup](https://hexdocs.pm/dynasup).
+Veja a explicação completa no vídeo.
 
