@@ -27,6 +27,7 @@ Nossa solução deve perguntar ao usuário, através do console, qual é o níve
 Toda a vez que o jogador escolher um número o computador deve dar a ele uma dica indicando se o número é menor ou maior ao escolhido. O computador também deve contar o número de palpites feitos pelo jogador e exibir um comentário respeitando a seguinte regra:
 
 |Palpites| Mensagem|
+|--------|---------|
 | 1 | Você consegue mesmo ler mentes!|
 |2..4|Muito impressionante.|
 |3..6| Você consegue fazer melhor que isso!|
