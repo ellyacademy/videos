@@ -2,7 +2,7 @@
 
 Neste minicurso você aprenderá na prática a criar um projeto de elixir e resolver problemas utilizando o paradigma funcional.
 
-Fazem parte do escopo:
+#### O que você vai aprder?
 
 - Como utilizar o [Mix](https://hexdocs.pm/mix/Mix.html) para criar e testar projetos.
 - Como interagir com console exibindo e recuperando entrada de dados do usuário
@@ -15,12 +15,15 @@ Fazem parte do escopo:
 - Como criar e interagir com coleções
 - Como controlar o fluxo de código com estruturas de decisão do elixir
 
-Antes de começar:
+#### Para quem é esse minicurso?
+Qualquer um, mesmo que iniciante, que já tenha conhecimento em programação e queira aprender elixir e o paradigma funcional.
+
+#### Antes de começar:
 Você precisa ter o elixir instalado no seu ambiente de desenvolvimento. Caso não tenha acompanhe esse [vídeo](https://youtu.be/TdjBev-il9w) no nosso canal que orienta a instalação de maneira adequada.
 
-# Desafio do curso
+## Desafio do curso
 
-## Jogo Adivinhar o número
+### Jogo Adivinhar o número
 
 Vamos criar um jogo para adivinhação de números que tem três níveis de dificuldade. O primeiro nível será um número entre 1 e 10. O segundo será entre 1 e 100 e o terceiro será entre 1 e 1000.
 
