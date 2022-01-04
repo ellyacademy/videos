@@ -7,6 +7,7 @@ Fazem parte do escopo:
 - Como utilizar o [Mix](https://hexdocs.pm/mix/Mix.html) para criar e testar projetos.
 - Como interagir com console exibindo e recuperando entrada de dados do usuário
 - Como criar [módulos e funções](https://elixir-lang.org/getting-started/modules-and-functions.html)
+- Como utilizar funções anonimas
 - Como utilizar [pattern matching](https://elixir-lang.org/getting-started/pattern-matching.html)
 - Como usar combinar pattern matching com [guards](https://hexdocs.pm/elixir/guards.html)
 - Como usar o operador [pipe |>](https://elixirschool.com/en/lessons/basics/pipe_operator)
