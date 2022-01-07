@@ -4,6 +4,7 @@ Neste minicurso você aprenderá na prática a criar um projeto de elixir e reso
 
 #### O que você vai aprder?
 
+- Como instalar o Elixir e [ASDF](https://github.com/asdf-vm/asdf).
 - Como utilizar o [Mix](https://hexdocs.pm/mix/Mix.html) para criar e testar projetos.
 - Como interagir com console exibindo e recuperando entrada de dados do usuário
 - Como criar [módulos e funções](https://elixir-lang.org/getting-started/modules-and-functions.html)
@@ -34,6 +35,6 @@ Toda a vez que o jogador escolher um número o computador deve dar a ele uma dic
 |--------|---------|
 | 1 | Você consegue mesmo ler mentes!|
 |2..4|Muito impressionante.|
-|3..6| Você consegue fazer melhor que isso!|
+|5..6| Você consegue fazer melhor que isso!|
 |>7| Mais sorte na próxima.|
 
