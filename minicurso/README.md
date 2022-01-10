@@ -6,15 +6,16 @@ Neste minicurso você aprenderá na prática a criar um projeto de elixir e reso
 
 - Como instalar o Elixir e [ASDF](https://github.com/asdf-vm/asdf).
 - Como utilizar o [Mix](https://hexdocs.pm/mix/Mix.html) para criar e testar projetos.
-- Como interagir com console exibindo e recuperando entrada de dados do usuário
-- Como criar [módulos e funções](https://elixir-lang.org/getting-started/modules-and-functions.html)
-- Como utilizar funções anonimas
-- Como utilizar [pattern matching](https://elixir-lang.org/getting-started/pattern-matching.html)
-- Como usar combinar pattern matching com [guards](https://hexdocs.pm/elixir/guards.html)
-- Como usar o operador [pipe |>](https://elixirschool.com/en/lessons/basics/pipe_operator)
-- Como criar funções recursivas
-- Como criar e interagir com coleções
-- Como controlar o fluxo de código com estruturas de decisão do elixir
+- Como interagir com console exibindo e recuperando entrada de dados do usuário.
+- Como criar [módulos e funções](https://elixir-lang.org/getting-started/modules-and-functions.html).
+- O que são comportamentos e como usar (Behaviours).
+- Como utilizar funções anonimas.
+- Como utilizar [pattern matching](https://elixir-lang.org/getting-started/pattern-matching.html).
+- Como usar combinar pattern matching com [guards](https://hexdocs.pm/elixir/guards.html).
+- Como usar o operador [pipe |>](https://elixirschool.com/en/lessons/basics/pipe_operator).
+- Como criar funções recursivas.
+- Como criar e interagir com coleções.
+- Como controlar o fluxo de código com estruturas de decisão do elixir.
 
 #### Para quem é esse minicurso?
 Qualquer um, mesmo que iniciante, que já tenha conhecimento em programação e queira aprender elixir e o paradigma funcional.
