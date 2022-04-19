@@ -1,3 +1,3 @@
 # Elixir | Criando API com Phoenix (CRUD)
 
-[https://youtu.be/sud6YuCEDuo](https://youtu.be/sud6YuCEDuo)
+[ellyacademy.com/courses/intro-elixir](https://ellyacademy.com/courses/intro-elixir)
